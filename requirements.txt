@@ -1,0 +1,6 @@
+pathway
+requests
+sentence-transformers
+torch
+numpy
+google-generativeai
